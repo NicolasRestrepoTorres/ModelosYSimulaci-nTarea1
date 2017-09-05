@@ -1,0 +1,23 @@
+Single-server queueing system with fixed run length
+
+Mean interarrival time      5.000 minutes
+
+Mean service time           4.250 minutes
+
+Length of the simulation 2000.000 minutes
+
+
+
+Average delay in queue               6.332 minutes
+
+Average delay of clients that abandoned      5.613 minutes
+
+Average number in queue     1.262
+
+Server utilization          0.773
+
+Customers that leave            39
+
+Not queued customers            1
+
+Number of delays completed    355

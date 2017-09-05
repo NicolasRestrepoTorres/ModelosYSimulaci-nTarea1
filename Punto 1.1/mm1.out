@@ -1,0 +1,20 @@
+Single-server queueing system
+
+Mean interarrival time      5.600 minutes
+
+Mean service time           4.800 minutes
+
+Number of customers           500
+
+
+
+Average delay of non cops vehicles in queue     28.873 minutes
+
+Average number of non cops vehicles in queue     5.330
+
+Server utilization          0.899
+
+Time simulation ended:     2708.603 minutes
+
+Cops served 90
+

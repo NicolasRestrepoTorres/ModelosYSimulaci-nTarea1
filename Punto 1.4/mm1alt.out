@@ -1,0 +1,13 @@
+Single-server queueing system with fixed run length
+
+Length of the simulation86400.000 minutes
+
+
+
+Average delay in queue             185.166 minutes
+
+Average number in queue    10.566
+
+Server utilization          0.928
+
+Number of pieces completed   4930
